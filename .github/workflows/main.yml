@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: generate github stats card
-        uses: LuciNyan/pixel-profile/action@v1.0.0
+        uses: LuciNyan/pixel-profile/action@v1.3.0
         with:
           github_token: ${{ secrets.PIXEL_PROFILE_TOKEN }}
           outputs: |
