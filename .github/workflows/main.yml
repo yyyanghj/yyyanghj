@@ -24,6 +24,7 @@ jobs:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@v1.0.0
         with:
+          github_token: ${{ secrets.PIXEL_PROFILE_TOKEN }}
           outputs: |
             dist/github-stats?username=yyyanghj&theme=fuji&pixelate_avatar=false&dithering=true&hide=rank
             dist/github-stats-dark?username=yyyanghj&screen_effect=true&pixelate_avatar=false&hide=rank
