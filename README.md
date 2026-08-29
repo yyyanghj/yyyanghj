@@ -3,7 +3,8 @@
 <p>
   <samp>
     <a href="https://yhj.me">blog</a> .
-    <a href="https://twitter.com/yyyanghj_">tweets</a>
+    <a href="https://twitter.com/yyyanghj_">tweets</a> .
+    <a href="mailto:hi@yhj.me">email</a>
   </samp>
 </p>
 
